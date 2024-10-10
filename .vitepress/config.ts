@@ -18,8 +18,12 @@ export default defineConfig({
       {
         text: "Readings",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Math", link: "/math" },
+          { text: "Phyics", link: "/phyics" },
+          { text: "Chemistry", link: "/chemistry" },
+          { text: "Biology", link: "/biology" },
+          { text: "Finance", link: "/finance" },
+          { text: "CS", link: "/cs" },
         ],
       },
     ],
